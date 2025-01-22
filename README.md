@@ -1,7 +1,8 @@
 -  Hi, I’m @screechvr0
 -  I’m interested in gaming
--  I’m currently learning python coding
+-  I’m currently learning c coding
 -  Pronouns: he/him
+
 
 <!---
 screechvr0/screechvr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
